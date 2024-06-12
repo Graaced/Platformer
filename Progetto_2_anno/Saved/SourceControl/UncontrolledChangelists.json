@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Changelist non controllate predefinite",
+			"files": [
+				"E:/Lezioni Programmazione/LEZIONI_2_ANNO/UE/PROGETTO_ESAME/Progetto_2_anno/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
